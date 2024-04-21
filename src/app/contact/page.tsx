@@ -2,7 +2,7 @@
 
 import React, { FormEvent, useState } from "react";
 import { BackgroundBeams } from "@/components/ui/background-beams";
-import Footer from "@/components/Footer";
+
 
 function MusicSchoolContactUs() {
   const [email, setEmail] = useState("");
